@@ -1,0 +1,9 @@
+.wraper{
+    width: 300px;
+    border: solid lightgray 3px;
+    margin: 0 auto;
+    border-radius: 15px;
+    background-color: lightgrey;
+    padding: 5px;
+    
+}
