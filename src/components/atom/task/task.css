@@ -5,6 +5,7 @@
     padding: 15px;
     justify-content: space-between;
     display: flex;
+    border-radius: 5px;
 }
 .listItemColor{
     border-bottom: black solid 1px;
@@ -13,8 +14,13 @@
     padding: 15px;
     justify-content: space-between;
     display: flex;
-    background-color: brown;
+    background-color:azure;
+    border-radius: 5px;
 }
 .wrap{
     display: flex;
+}
+.listItem:hover{
+    background-color: antiquewhite;
+    
 }
